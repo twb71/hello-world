@@ -1,2 +1,5 @@
 # hello-world
-first step
+
+Hi Sunny World!
+
+I love UX and are currently commiting fully to Figma
